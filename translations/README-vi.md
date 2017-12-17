@@ -500,9 +500,9 @@ Hãy viết code trên bảng đen hoặc trên giấy. Đừng sử dụng máy
         - Sách ngắn, nhưng nó sẽ cho bạn một nền tảng tốt về C, và nếu bạn luyện tập nhiều hơn, bạn sẽ nhanh chóng thành thạo nó. Hiểu về C giúp bạn hiểu cách các chương trình và bộ nhớ hoạt động.
         - [Lời giải cho các câu hỏi](https://github.com/lekkas/c-algorithms)
 
-- [ ] **Máy tính thực thi một chương trình như thế nào?**
-    - [ ] [CPU thực thi chương trình thế nào (How does CPU execute program) - video](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Tập lệnh mã máy (Machine Code Instructions) - video](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+- [x] **Máy tính thực thi một chương trình như thế nào?**
+    - [x] [CPU thực thi chương trình thế nào (How does CPU execute program) - video](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [x ] [Tập lệnh mã máy (Machine Code Instructions) - video](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Độ phức tạp của thuật toán / Big-O / Phân tích tiệm cận
 - Link được giữ nguyên theo bản tiếng Anh
