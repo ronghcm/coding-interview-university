@@ -502,7 +502,7 @@ Hãy viết code trên bảng đen hoặc trên giấy. Đừng sử dụng máy
 
 - [x] **Máy tính thực thi một chương trình như thế nào?**
     - [x] [CPU thực thi chương trình thế nào (How does CPU execute program) - video](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [x ] [Tập lệnh mã máy (Machine Code Instructions) - video](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    - [x] [Tập lệnh mã máy (Machine Code Instructions) - video](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Độ phức tạp của thuật toán / Big-O / Phân tích tiệm cận
 - Link được giữ nguyên theo bản tiếng Anh
